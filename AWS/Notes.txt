@@ -319,4 +319,47 @@ Next ::::
 			
 			
 			
-			
+
+	
+#######################
+Day 38: 9th Feb. 2026
+#######################		
+	
+	AWS Networking :::	
+	
+		Computer Networking!
+	
+	
+		IPV4 - 32 bit address 	--> x.x.x.x
+		
+		IPV6 - 128 bit address  --> y.y.y.y.y.y.y.y.y	==> can have globally unique address.
+		
+		
+	
+#######################
+Day 39: 10th Feb. 2026
+#######################		
+
+
+	AWS VPC
+	Subnet 
+	IGW 
+	IP Address
+	Security Groups
+	NACL 
+	NAT Gateway
+	
+	VPC Connectivity Options :::
+		
+		==> 
+	
+	29 IP Address
+	
+		x.x.x.x/26 ==> 
+		
+		
+		32 --> 
+		
+		5 --> 
+		
+		
